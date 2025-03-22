@@ -48,3 +48,4 @@ Quando resolver corretamente, receberá um simples ```Passou!```.
 13. **queue.ts**: mais estrutura de dados
 14. **jsonParse.ts**: trabalhando com json e trativa de erros
 15. **fibonnaci.ts**: uma abordagem recursiva é apresentada, porém lenta - como achar um algoritmo que resolve todos os problemas antes do tempo limite?
+16. **peakingFinding.ts**: algoritmo que encontra um máximo local dentro de um array de números - segue [material](https://courses.csail.mit.edu/6.006/spring11/lectures/lec02.pdf).
