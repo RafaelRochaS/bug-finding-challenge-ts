@@ -1,7 +1,7 @@
 import assert from "assert"
 
 function removeDuplicates(arr: number[]): number[] {
-  return Array.from(new Set(arr))
+  return Array.from(arr)
 }
 
 const nums = [1, 2, 2, 3]

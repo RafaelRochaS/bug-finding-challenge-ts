@@ -5,4 +5,5 @@ function average(numbers: number[]): number {
 }
 
 assert.strictEqual(average([2, 4, 6]), 4)
+assert.strictEqual(average([]), 0)
 console.log("Passou!")

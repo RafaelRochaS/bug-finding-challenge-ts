@@ -5,4 +5,5 @@ function reverseString(s: string): string {
 }
 
 assert.strictEqual(reverseString("abc"), "cba")
+assert.strictEqual(reverseString("123456"), "654321")
 console.log("Passou!")

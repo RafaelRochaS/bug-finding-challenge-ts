@@ -36,15 +36,15 @@ Quando resolver corretamente, receberá um simples ```Passou!```.
 1. **sum.ts**: bem simples e óbvio, apenas para mostrar como funciona o desafio
 2. **wordCount.ts**: manipulação de caracteres
 3. **stringReversal.ts**: lida com manipulação de strings
-4. **average.ts**: trativa de erros com inteiros
-5. **palindrome.ts**: mais manipulação de strings
-6. **primeNumbers.ts**: validação de inteiros
-7. **anagram.ts**: mais manipulação de strings
-8. **countVowel.ts**: string e regex
-9. **recursiveFibonnaci.ts**: recursividade
-10. **removeDuplicates.ts**: arrays e sets
+4. **removeDuplicates.ts**: arrays e sets
+5. **average.ts**: trativa de erros com inteiros
+6. **palindrome.ts**: mais manipulação de strings
+7. **primeNumbers.ts**: validação de inteiros - o código funciona porém é muito lento, como ficar mais eficiente?
+8. **anagram.ts**: mais manipulação de strings
+9. **countVowel.ts**: string e regex
+10. **bankAccount.ts**: classes
 11. **bubbleSort.ts**: ordenamento de inteiros
 12. **stack.ts**: estrutura de dados
 13. **queue.ts**: mais estrutura de dados
-14. **jsonParse.ts**: trabalhando com json
-15. **bankAccount.ts**: classes
+14. **jsonParse.ts**: trabalhando com json e trativa de erros
+15. **fibonnaci.ts**: uma abordagem recursiva é apresentada, porém lenta - como achar um algoritmo que resolve todos os problemas antes do tempo limite?
