@@ -29,6 +29,8 @@ AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
 
 Quando resolver corretamente, receberá um simples ```Passou!```.
 
+**IMPORTANTE!**: As funções de assert **não** devem ser alteradas, apenas as funções dos problemas.
+
 #
 
 ## Ordem Sugerida
